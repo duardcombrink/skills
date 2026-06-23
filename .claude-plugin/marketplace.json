@@ -1,7 +1,8 @@
 {
   "name": "duardcombrink-skills",
-  "owner": "duardcombrink",
-  "version": "1.0.0",
+  "owner": {
+    "name": "duardcombrink"
+  },
   "description": "My skills bundled as a Cowork plugin",
   "plugins": [
     {
