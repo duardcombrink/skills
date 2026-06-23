@@ -1,8 +1,12 @@
 {
   "name": "duardcombrink-skills",
-  "owner": "duardcombrink",
-  "version": "1.0.0",
-  "description": "My skills bundled as a Cowork plugin",
+  "owner": {
+    "name": "duardcombrink"
+  },
+  "metadata": {
+    "description": "My skills bundled as a Cowork plugin",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "find-skills",
