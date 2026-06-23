@@ -1,0 +1,15 @@
+{
+  "name": "duardcombrink-skills",
+  "owner": "duardcombrink",
+  "version": "1.0.0",
+  "description": "My skills bundled as a Cowork plugin",
+  "plugins": [
+    {
+      "name": "find-skills",
+      "description": "Discover and install agent skills",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/find-skills"]
+    }
+  ]
+}
